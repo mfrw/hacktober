@@ -1,4 +1,4 @@
-# hacktober-1
-Learn How to Use Github
-It is all about learning git.
+# Hacktober Fest
+Learn How to Use Github.
 
+Submit any random 4 pull requests, sharpen your git, github skills
