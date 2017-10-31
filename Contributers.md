@@ -1,2 +1,3 @@
 This is a list of contributors to this repo:
-- [mayankmtg](https://github.com/mayankmtg/)
+[Gurpal Singh](https://github.com/HuntingAxl/)
+[mayankmtg](https://github.com/mayankmtg/)
