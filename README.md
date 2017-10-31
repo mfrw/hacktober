@@ -1,5 +1,4 @@
-# hacktober
-Learn How to Use Github
+# Hacktober Fest
+Learn How to Use Github.
 
-Updated readme file.
-And added prime_num.py
+Submit any random 4 pull requests, sharpen your git, github skills
