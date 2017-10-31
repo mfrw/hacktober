@@ -1,6 +1,6 @@
 public class Fibonnaci{
    public static void main(String[] args) {
-      int n = 50;
+      int n = 10;
       long fib[] = new long[n+1];
       fib[0] = 0;
       fib[1] = 1;
