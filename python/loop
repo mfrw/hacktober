@@ -1,0 +1,5 @@
+M= [100,70,90,40,101]
+l = len(M)
+print(M)
+M.pop(l)
+print(M)
