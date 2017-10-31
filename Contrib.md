@@ -5,3 +5,4 @@ This is a list of contributors to this repo:
 - [ashu8826](https//github.com/ashu8826)
 - [Vaibhav Pande](https://github.com/vaibhav16060/)
 - [Asra Sakeen](https://github.com/asrasakeen/)
+- [Ewerton Queiroz](https://github.com/EwertonQueiroz/)
